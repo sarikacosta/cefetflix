@@ -1,0 +1,56 @@
+.titulo{
+
+	font-family: 'Quicksand', sans-serif;
+	font-size: 85px;
+	color:#8B1A1A;
+}
+
+.filme{
+
+	padding-top: 7px;
+
+	width:700px;
+
+	margin: 10px auto;
+
+	text-align:center;
+
+	 background-color: rgba(255, 255, 255, 0.7);
+
+}
+
+.img{
+
+	width:300px;
+	font-family: 'Times New Roman', sans-serif;
+
+}
+
+
+
+body{
+
+	background-image: url("http://mundodecinema.com/wp-content/uploads/2016/12/blogs-de-cinema.jpg");
+	background-size:115%;
+
+	background-repeat:no-repeat;
+
+	background-attachment:fixed;
+	font-family: 'Times New Roman', sans-serif;
+	
+
+}
+
+.tit-semelhante{
+
+	list-style:none;
+	text-align:center;
+	
+
+}
+.classificacao{
+	border: solid 3px;
+	width: 100px;
+	text-align:center;
+	margin: 0 auto;
+}
